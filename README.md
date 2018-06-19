@@ -21,3 +21,7 @@ You can clone/download resource from git
  - Copy `VIPStructureTemplate`and then paste in here
  
  - Restart Android Studio, and then when you right click on a folder to create a new file, you will be able to see the new option to create a `VIP Clean Android Kotlin` structure.
+
+## 3. That's all. Let's create your first `VIP Clean Android Kotlin` structure. Good luck to you!
+
+![alt text](https://github.com/tanln1092/android-studio-vip-templates/blob/master/screenshot.png)
