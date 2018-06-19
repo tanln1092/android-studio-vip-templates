@@ -9,16 +9,15 @@ You can clone/download resource from git
 - Navigate to the location of the templates folder :
 
   + For `Window`:
-``` 
-{ANDROID_STUDIO_LOCATION}/plugins/android/lib/templates/other/
-```
+    ``` 
+    {ANDROID_STUDIO_LOCATION}/plugins/android/lib/templates/other/
+    ```
  
   + For `MAC OS`:
-
-```
-/Applications/Android Studio.app/Contents/plugins/android/lib/templates/other/
-```
+    ```
+    /Applications/Android Studio.app/Contents/plugins/android/lib/templates/other/
+    ```
 
  - Copy `VIPStructureTemplate`and then paste in here
  
-- Restart Android Studio, and then when you right click on a folder to create a new file, you will be able to see the new option to create a `VIP Clean Android Kotlin` structure.
+ - Restart Android Studio, and then when you right click on a folder to create a new file, you will be able to see the new option to create a `VIP Clean Android Kotlin` structure.
